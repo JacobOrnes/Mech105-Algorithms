@@ -1,6 +1,5 @@
-% Cameron Denison
-% 4/2/19
-% Mech 105
+%%Jacob Ornes
+% April 1, 2019
 function [L,U,P] = luFactor(A)
 %Inputs:
 %• A - coefficient matrix
