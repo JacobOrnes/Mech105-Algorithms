@@ -1,6 +1,6 @@
 Mech105-Algorithms
 ======================
-<a href="https://github.com/JacobOrnes/Mech105-Algorithms">`Mech105-Algorithms`</a> contains all of my algorithms I created during Mech105, Spring semester 2019.
+<a href="https://github.com/JacobOrnes/Mech105-Algorithms">`Mech105-Algorithms`</a> contains all of my MATLAB algorithms I created during Mech105, Spring semester 2019.
 
 The list of algorithims consists of:
 *  <a href="https://github.com/JacobOrnes/Mech105-Algorithms/blob/master/Machine-Epsilon/machineepsilon.m">`Machine-Epsilon`</a> : Calculates the value of machine epsilon
