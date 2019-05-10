@@ -3,4 +3,4 @@
 function ans = machineepsilon
 
 ####
-The Machine epsilon function gives an upper bound on the relative error due to rounding in floating point
+The Machine epsilon function gives an upper bound on the relative error due to rounding in floating point.
