@@ -2,7 +2,7 @@ Mech105-Algorithms
 ======================
 <a href="https://github.com/JacobOrnes/Mech105-Algorithms">`Mech105-Algorithms`</a> contains all of my algorithms I created during Mech105, Spring semester 2019.
 
-The list of algorithims includes:
+The list of algorithims consists of:
 *  <a href="https://github.com/JacobOrnes/Mech105-Algorithms/blob/master/Machine-Epsilon/machineepsilon.m">`Machine-Epsilon`</a> : Calculates the value of machine epsilon
 *  <a href="https://github.com/JacobOrnes/Mech105-Algorithms/blob/master/Simpsons/Simpson.m">`Simpsons`</a> : Performs an integration using the input matrices
 *  <a href="https://github.com/JacobOrnes/Mech105-Algorithms/blob/master/LU-Decomposition/luFactor.m">`LU-Decomposition`</a> : Creates the L and U arrays using LU decomposition
